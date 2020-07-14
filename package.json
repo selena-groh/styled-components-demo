@@ -1,7 +1,7 @@
 {
   "name": "styled-components-demo",
   "version": "1.0.0",
-  "description": "A quick demonstration of the abilities of the styled-components library with React",
+  "description": "A quick demo of the styled-components React library",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
